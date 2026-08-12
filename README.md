@@ -3,6 +3,7 @@ Plataforma de cálculos elétricos para estudantes e profissionais.
 (Electrical calculation platform for students and professionals.)
 
 Stocco Blitz Calc é uma plataforma web open-source para cálculos de engenharia elétrica, projetada para fornecer ferramentas práticas e acessíveis para estudantes, técnicos e engenheiros.
+
 (Stocco Blitz Calc is an open-source web platform for electrical engineering calculations, designed to provide practical and accessible tools for students, technicians and engineers.)
 
 ## Recursos (Features)
